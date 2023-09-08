@@ -12,7 +12,7 @@
 </p> 
 
 - 🏢 I'm a Software Engineer
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As a CS learner, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, ReactJS,Angular and spring, or anything related to web development.
 
 
